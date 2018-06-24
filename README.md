@@ -1,9 +1,12 @@
-Accuracy ~ 97%
+Accuracy ~ 98%
 
-Log-loss ~ 0.17
+Validation accuracy: 97.2%
+
+Log-loss ~ 0.0937
 
 ```
 Layers:
+    Dense (64 + "elu")
     Dense (64 + "elu")
     Softmax (10)
 ```
