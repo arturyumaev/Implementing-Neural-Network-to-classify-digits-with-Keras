@@ -1,1 +1,6 @@
-# Implementing-Neural-Network-to-classify-digits-with-Keras
+Accuracy ~ 97%
+Log-loss ~ 0.17
+
+Layers:
+    Dense (64 + "elu")
+    Softmax (10)
